@@ -29,5 +29,5 @@ const styles = StyleSheet.create({
   bannerContainer: {
     justifyContent: 'center',
     alignItems: 'center',
-  }
+  },
 });
