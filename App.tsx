@@ -3,12 +3,17 @@ import React from 'react';
 
 const App = () => {
   return (
-    <View>
-      <Text>Quizzer</Text>
+    <View style={styles.container}>
+      
     </View>
   );
 };
 
 export default App;
 
-const styles = StyleSheet.create({});
+const styles = StyleSheet.create({
+  container:{
+    paddingTop: 40,
+    paddingHorizontal: 16,
+  },
+});
